@@ -27,3 +27,6 @@ https://github.com/dr-matt-smith/php-symfony-5-book-codes
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-security-05-access-denied-handler
 
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-security-06-twig-logger
+
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-security-07-role-hierarchy
+
